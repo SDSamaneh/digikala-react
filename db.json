@@ -1,0 +1,692 @@
+{
+  "slider": [
+    {
+      "id": "1",
+      "image": "../public/images/slider/slid1.jpg"
+    },
+    {
+      "id": "2",
+      "image": "../public/images/slider/slid2.jpg"
+    },
+    {
+      "id": "3",
+      "image": "../public/images/slider/slide3.jpg"
+    },
+    {
+      "id": "4",
+      "image": "../public/images/slider/slide4.jpg"
+    },
+    {
+      "id": "5",
+      "image": "../public/images/slider/slide5.jpg"
+    },
+    {
+      "id": "6",
+      "image": "../public/images/slider/slide6.jpg"
+    },
+    {
+      "id": "7",
+      "image": "../public/images/slider/slide7.jpg"
+    },
+    {
+      "id": "8",
+      "image": "../public/images/slider/slide8.jpg"
+    },
+    {
+      "id": "9",
+      "image": "../public/images/slider/slide9.jpg"
+    },
+    {
+      "id": "10",
+      "image": "../public/images/slider/slide10.jpg"
+    },
+    {
+      "id": "efa4",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/9098647e5cbc9aae3743be83aadc88a3c4e07623_1727596667.gif?x-oss-process=image?x-oss-process=image/format,webp"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/096c0630db4fdb95721f94045d31ed87f82b2e6f_1727594412.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "id": "a932"
+    },
+    {
+      "id": "a39b",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/3932760b5a3f40d2f853b4ba951621914869333d_1727794899.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": "c9d4",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/cd6aac28f2603d7324d590ca81ea7e304df146b3_1727878330.jpg?x-oss-process=image/quality,q_95/format,webp"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "image": "../public/images/story/6.png",
+      "title": "ابزارچندکاره و چسب حرارتی"
+    },
+    {
+      "id": "2",
+      "image": "../public/images/story/1.png",
+      "title": "بلک ارکید از نوو اکسپرس"
+    },
+    {
+      "id": "3",
+      "image": "../public/images/story/2.png",
+      "title": "فشارسنج اقتصادی گلامور"
+    },
+    {
+      "id": "4",
+      "image": "../public/images/story/3.png",
+      "title": "یه محرک برای رشد موهاتون"
+    },
+    {
+      "id": "5",
+      "image": "../public/images/story/4.png",
+      "title": "هندزفری مانیتور دار"
+    },
+    {
+      "id": "6",
+      "image": "../public/images/story/5.png",
+      "title": "بهترین ماگ های فانتزی دیجی‌کالا!"
+    },
+    {
+      "id": "7",
+      "image": "../public/images/story/7.png",
+      "title": "ال‌‌کلاسیکوی شیورا"
+    },
+    {
+      "id": "8",
+      "image": "../public/images/story/8.png",
+      "title": "کمک به افزایش توده عضلانی"
+    },
+    {
+      "id": "9",
+      "image": "../public/images/story/9.png",
+      "title": "پشتی صندلی خودرو"
+    },
+    {
+      "id": "10",
+      "image": "../public/images/story/10.png",
+      "title": "دوئل غول های میکروفون!"
+    },
+    {
+      "id": "11",
+      "image": "../public/images/story/11.png",
+      "title": "کوکی سیب دارچین پاییزی"
+    },
+    {
+      "id": "12",
+      "image": "../public/images/story/12.png",
+      "title": "کوکی سیب دارچین پاییزی"
+    },
+    {
+      "id": "13",
+      "image": "../public/images/story/13.png",
+      "title": "کوکی سیب دارچین پاییزی"
+    },
+    {
+      "id": "14",
+      "image": "../public/images/story/14.png",
+      "title": "من باهاش مکمل میخورم ..."
+    },
+    {
+      "id": "15",
+      "image": "../public/images/story/15.png",
+      "title": "من باهاش مکمل میخورم ..."
+    },
+    {
+      "id": "16",
+      "image": "../public/images/story/16.png",
+      "title": "من باهاش مکمل میخورم ..."
+    },
+    {
+      "id": "eabd",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/d92d8b3d692697e40b93c41a9b133c198ea303f5_1726702289.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+      "title": "برای هواپزت اینو بخر"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "image": "../public/images/products/1.jpg"
+    },
+    {
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/69085be8a229b6bf33cde5bc29c813391ac61d10_1727879980.gif?x-oss-process=image?x-oss-process=image/format,webp",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "image": "../public/images/products/3.jpg"
+    },
+    {
+      "id": "b10c",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/abb3008fbded4fe744310e335dc6a8b8898c6159_1707047699.jpg?x-oss-process=image/quality,q_95/format,webp"
+    }
+  ],
+  "bellatrix": [
+    {
+      "id": "1",
+      "image": "../public/images/bellatrix/Bellatrix1.png",
+      "title": "دریافت وام"
+    },
+    {
+      "id": "2",
+      "image": "../public/images/bellatrix/Bellatrix2.png",
+      "title": "حراج سر ماه"
+    },
+    {
+      "image": "../public/images/bellatrix/Bellatrix3.png",
+      "title": "موبایل کار کرده ",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "image": "../public/images/bellatrix/Bellatrix5.png",
+      "title": "تضمین قیمت"
+    },
+    {
+      "id": "5",
+      "image": "../public/images/bellatrix/Bellatrix6.png",
+      "title": "بهترین فروشندگان"
+    },
+    {
+      "id": "6",
+      "image": "../public/images/bellatrix/Bellatrix7.png",
+      "title": "بازگشت به مدرسه"
+    },
+    {
+      "id": "7",
+      "image": "../public/images/bellatrix/Bellatrix8.png",
+      "title": "سوپر مارکت پر تخفیف"
+    },
+    {
+      "id": "8",
+      "image": "../public/images/bellatrix/Bellatrix9.png",
+      "title": "فروش ویژه محلی و بومی"
+    },
+    {
+      "id": "9",
+      "image": "../public/images/bellatrix/Bellatrix10.png",
+      "title": "تخفیف دیجی پلاس"
+    },
+    {
+      "id": "53e1",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/9fd4c8bbf736655f957e8742b872c00647c33b0f_1727598250.png",
+      "title": "عجیب خرید"
+    },
+    {
+      "id": "a739",
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/58c8d10598ebf0b7c994f49f6c8af86c0f1e329f_1727699627.png",
+      "title": "حراج استایل"
+    }
+  ],
+  "offer": [
+    {
+      "id": "1",
+      "image": "../public/images/offer/1.jpg",
+      "title": "دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت",
+      "price": "۲۵,۲۹۹,۰۰۰",
+      "offer": "6",
+      "oferPrice": "۲۰,۲۹۹,۰۰۰"
+    },
+    {
+      "image": "../public/images/offer/2.jpg",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "image": "../public/images/offer/3.jpg",
+      "title": "لپ تاپ ایسوس مدل ExpertBook B1 B1502CBA-I385BD-i3",
+      "price": "۲۰,۴۹۹,۰۰۰",
+      "offer": "9",
+      "oferPrice": "۱۹,۸۹۹,۰۰۰"
+    },
+    {
+      "id": "4",
+      "image": "../public/images/offer/4.jpg",
+      "title": "دفتر برنامه ريزي هميشه مدل Planner كد 1001",
+      "price": "۲۴۰,۰۰۰",
+      "offer": "25",
+      "oferPrice": "۲۳۸,۰۰۰"
+    },
+    {
+      "id": "5",
+      "image": "../public/images/offer/10.png",
+      "title": "گوشی موبایل آنر مدل 90 ",
+      "price": "۱۹,۲۹۹,۰۰۰",
+      "offer": "5",
+      "oferPrice": "۱۷,۵۹۹,۰۰۰"
+    },
+    {
+      "id": "6",
+      "image": "../public/images/offer/13.png",
+      "title": "لپ تاپ اچ‌ پی مدل fc0031nq-15-R3",
+      "price": "۱۷,۵۹۹,۰۰۰",
+      "offer": "12",
+      "oferPrice": "۱۴,۷۹۹,۰۰۰"
+    },
+    {
+      "id": "7",
+      "image": "../public/images/offer/14.png",
+      "title": "اسپیکر بلوتوثی قابل حمل پرومیت مدل BOOM-10",
+      "price": "۸۴۹,۰۰۰",
+      "offer": "15",
+      "oferPrice": "۸۴۹,۰۰۰"
+    },
+    {
+      "id": "8",
+      "image": "../public/images/offer/15.png",
+      "title": "کرم ضد آفتاب دور چشم آیسول NS12V محافظ UVA",
+      "price": "۲۰۵,۳۰۰",
+      "offer": "40",
+      "oferPrice": "۱۲۳,۱۸۰"
+    },
+    {
+      "id": "9",
+      "image": "../public/images/offer/16.png",
+      "title": "لوستر 10 شعله شاهان تک کد SHO.6015",
+      "price": "۳,۱۰۰,۰۰۰",
+      "offer": "23",
+      "oferPrice": "۲,۳۹۰,۰۰۰"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "image": "../public/images/category/موبایل.png",
+      "title": "موبایل"
+    },
+    {
+      "id": "2",
+      "image": "../public/images/category/کالای دیجیتال.png",
+      "title": "کالای دیجیتال"
+    },
+    {
+      "id": "3",
+      "image": "../public/images/category/لوازم تحریر.png",
+      "title": "کتاب،لوازم تحریر و هنر"
+    },
+    {
+      "id": "4",
+      "image": "../public/images/category/خانه و آشپزخانه.png",
+      "title": "خانه و آشپزخانه"
+    },
+    {
+      "id": "5",
+      "image": "../public/images/category/لوازم خانگی برقی.png",
+      "title": "لوازم خانگی برقی"
+    },
+    {
+      "id": "6",
+      "image": "../public/images/category/مد و پوشاک.png",
+      "title": "مد و پوشاک"
+    },
+    {
+      "id": "7",
+      "image": "../public/images/category/طلا و نقره.png",
+      "title": "طلا و نقره"
+    },
+    {
+      "id": "8",
+      "image": "../public/images/category/آرایشی و بهداشتی.png",
+      "title": "آرایشی و بهداشتی"
+    },
+    {
+      "id": "9",
+      "image": "../public/images/category/تجهیزات پزشکی.png",
+      "title": "تجهیزات پزشکی و سلامت"
+    },
+    {
+      "id": "10",
+      "image": "../public/images/category/ورزش و سفر.png",
+      "title": "ورزش و سفر"
+    },
+    {
+      "id": "11",
+      "image": "../public/images/category/خودرو و موتورسیکلت.png",
+      "title": "خودرو و موتورسیکلت"
+    },
+    {
+      "id": "12",
+      "image": "../public/images/category/ابزارآلات.png",
+      "title": "ابزارآلات و تجهیزات"
+    },
+    {
+      "id": "13",
+      "image": "../public/images/category/کارت هدیه.png",
+      "title": "کارت هدیه و گیفت کارت"
+    },
+    {
+      "id": "14",
+      "image": "../public/images/category/کالای خوراکی.png",
+      "title": "کالای خوراکی و اساسی"
+    },
+    {
+      "id": "15",
+      "image": "../public/images/category/اسباب بازی.png",
+      "title": "اسباب بازی،کودک ونوزاد"
+    },
+    {
+      "id": "16",
+      "image": "../public/images/category/محصولات بومی.png",
+      "title": "محصولات بومی و محلی"
+    }
+  ],
+  "baner": [
+    {
+      "id": "1",
+      "image": "../public/images/baner1.png"
+    },
+    {
+      "id": "2",
+      "image": "../public/images/baner2.png"
+    }
+  ],
+  "banerSecond": [
+    {
+      "id": "1",
+      "image": "../public/images/baner3.png"
+    },
+    {
+      "id": "2",
+      "image": "../public/images/baner4.png"
+    }
+  ],
+  "brand": [
+    {
+      "id": "1",
+      "image": "../public/images/brand/1.jpg"
+    },
+    {
+      "id": "2",
+      "image": "../public/images/brand/2.jpg"
+    },
+    {
+      "id": "3",
+      "image": "../public/images/brand/3.jpg"
+    },
+    {
+      "id": "4",
+      "image": "../public/images/brand/4.png"
+    },
+    {
+      "id": "5",
+      "image": "../public/images/brand/5.jpg"
+    },
+    {
+      "id": "6",
+      "image": "../public/images/brand/6.jpg"
+    },
+    {
+      "id": "7",
+      "image": "../public/images/brand/7.jpg"
+    },
+    {
+      "id": "8",
+      "image": "../public/images/brand/8.jpg"
+    },
+    {
+      "id": "9",
+      "image": "../public/images/brand/9.jpg"
+    },
+    {
+      "id": "10",
+      "image": "../public/images/brand/10.jpg"
+    },
+    {
+      "id": "11",
+      "image": "../public/images/brand/11.png"
+    },
+    {
+      "id": "12",
+      "image": "../public/images/brand/12.png"
+    },
+    {
+      "id": "13",
+      "image": "../public/images/brand/13.png"
+    },
+    {
+      "id": "14",
+      "image": "../public/images/brand/14.png"
+    }
+  ],
+  "ProductCategory": [
+    {
+      "id": "1",
+      "title": "کیف و کاور گوشی",
+      "slogan": "بر اساس سلیقه شما",
+      "photo": [
+        {
+          "image": "../public/images/1-1.png"
+        },
+        {
+          "image": "../public/images/1-2.png"
+        },
+        {
+          "image": "../public/images/1-3.png"
+        },
+        {
+          "image": "../public/images/1-4.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "گوشی موبایل",
+      "slogan": "بر اساس سلیقه شما",
+      "photo": [
+        {
+          "image": "../public/images/2-1.png"
+        },
+        {
+          "image": "../public/images/2-2.png"
+        },
+        {
+          "image": "../public/images/2-3.png"
+        },
+        {
+          "image": "../public/images/2-4.png"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "هدفون، هدست و هندزفری",
+      "slogan": "بر اساس سلیقه شما",
+      "photo": [
+        {
+          "image": "../public/images/3-1.png"
+        },
+        {
+          "image": "../public/images/3-2.png"
+        },
+        {
+          "image": "../public/images/3-3.png"
+        },
+        {
+          "image": "../public/images/3-4.png"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "ساعت هوشمند",
+      "slogan": "بر اساس سلیقه شما",
+      "photo": [
+        {
+          "image": "../public/images/4-1.png"
+        },
+        {
+          "image": "../public/images/4-2.png"
+        },
+        {
+          "image": "../public/images/4-3.png"
+        },
+        {
+          "image": "../public/images/4-4.png"
+        }
+      ]
+    }
+  ],
+  "lazyload": [
+    {
+      "id": "1",
+      "title": "لپ تاپ و الترابوک",
+      "slogan": "بر اساس سلیقه شما",
+      "photo": [
+        {
+          "image": "../public/images/lazyload/1-1.png"
+        },
+        {
+          "image": "../public/images/lazyload/1-2.png"
+        },
+        {
+          "image": "../public/images/lazyload/1-3.png"
+        },
+        {
+          "image": "../public/images/lazyload/1-4.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "سایر لوازم خودرو",
+      "slogan": "بر اساس سلیقه شما",
+      "photo": [
+        {
+          "image": "../public/images/lazyload/2-1.png"
+        },
+        {
+          "image": "../public/images/lazyload/2-2.png"
+        },
+        {
+          "image": "../public/images/lazyload/2-3.png"
+        },
+        {
+          "image": "../public/images/lazyload/2-4.png"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "دفتر",
+      "slogan": "بر اساس سلیقه شما",
+      "photo": [
+        {
+          "image": "../public/images/lazyload/3-1.png"
+        },
+        {
+          "image": "../public/images/lazyload/3-2.png"
+        },
+        {
+          "image": "../public/images/lazyload/3-3.png"
+        },
+        {
+          "image": "../public/images/lazyload/3-4.png"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "ساعت عقربه ای مردانه",
+      "slogan": "بر اساس سلیقه شما",
+      "photo": [
+        {
+          "image": "../public/images/lazyload/4-1.png"
+        },
+        {
+          "image": "../public/images/lazyload/4-2.png"
+        },
+        {
+          "image": "../public/images/lazyload/4-3.png"
+        },
+        {
+          "image": "../public/images/lazyload/4-4.png"
+        }
+      ]
+    }
+  ],
+  "bestSelling": [
+    {
+      "id": "1",
+      "image": "../public/images/bestselling/1.png",
+      "number": "1",
+      "description": "فلافل منجمد مارین - 950 گرم  "
+    },
+    {
+      "id": "2",
+      "image": "../public/images/bestselling/2.png",
+      "number": "2",
+      "description": "گوشی موبایل نوکیا مدل 105 2023 دو سیم‌ کارت - مونتاژ ایران تحت لیسانس نوکیا"
+    },
+    {
+      "id": "3",
+      "image": "../public/images/bestselling/3.png",
+      "number": "3",
+      "description": "شکر سفید الماس دانه - 1 کیلوگرم"
+    },
+    {
+      "id": "4",
+      "image": "../public/images/bestselling/4.png",
+      "number": "4",
+      "description": "مایع سفیدکننده غلیظ سطوح دامستوس مدل Eucalyptus Freshness حجم 750 میلی لیتر"
+    },
+    {
+      "id": "5",
+      "image": "../public/images/bestselling/5.png",
+      "number": "5",
+      "description": "پنیر سفید ایرانی پگاه - 400 گرم"
+    },
+    {
+      "id": "6",
+      "image": "../public/images/bestselling/6.png",
+      "number": "6",
+      "description": "صابون گلنار مدل روغن نارگیل بسته 6 عددی"
+    },
+    {
+      "id": "7",
+      "image": "../public/images/bestselling/7.png",
+      "number": "7",
+      "description": "رب گوجه فرنگی چین چین مقدار 700 گرم"
+    },
+    {
+      "id": "8",
+      "image": "../public/images/bestselling/8.png",
+      "number": "8",
+      "description": "پنیر فتا دوشه هراز - 400 گرم"
+    },
+    {
+      "id": "9",
+      "image": "../public/images/bestselling/9.png",
+      "number": "9",
+      "description": "روغن آفتابگردان حاوی توکوفرول غنچه پلاس - 1800 میلی لیتر"
+    },
+    {
+      "id": "10",
+      "image": "../public/images/bestselling/10.png",
+      "number": "10",
+      "description": " مرغ کامل سمین - 1100 گرم"
+    }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "image": "../public/images/news/1.png",
+      "description": "بهترین کتاب‌های رومن گاری که باید بخوانید"
+    },
+    {
+      "id": "2",
+      "image": "../public/images/news/2.png",
+      "description": "راهنمای خرید بهترین تبلت گیمینگ تا ۳۰ میلیون تومان"
+    },
+    {
+      "id": "3",
+      "image": "../public/images/news/3.png",
+      "description": "نگاهی به سریال «گل یا پوچ»؛ یک بازی ایرانی با اجرای مدیری"
+    },
+    {
+      "id": "4",
+      "image": "../public/images/news/4.png",
+      "description": "طرز تهیه اکبر جوجه رستورانی در خانه؛ ترد و لذیذ"
+    }
+  ]
+}
